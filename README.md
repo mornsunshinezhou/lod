@@ -1,0 +1,2 @@
+# lod
+lod for playcanvas
